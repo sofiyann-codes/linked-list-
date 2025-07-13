@@ -1,2 +1,2 @@
 # linked-list-
-Here is all the single linked list functions using c++
+Here is all the linked list functions using c++
